@@ -1,0 +1,19 @@
+{
+  "name": "jumbox",
+  "version": "1.0.0",
+  "description": "Consigue los precios de jumbo y genera estadisticas",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "gonzo",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.19.2",
+    "html": "^1.0.0",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.7.0",
+    "puppeteer": "^22.6.3"
+  }
+}

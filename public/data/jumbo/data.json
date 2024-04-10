@@ -1,0 +1,480 @@
+{
+    "4252": {
+        "id": "4252",
+        "descripcion": "",
+        "nombre": "Aceite De Girasol Natura 1.5 L",
+        "marca": "NATURA",
+        "precioDeVenta": 2878,
+        "precioDeList": 2878,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/427751/Aceite-De-Girasol-Natura-15-L-1-247928.jpg?v=636495154762100000"
+    },
+    "5614": {
+        "id": "5614",
+        "descripcion": "<article> <h3>Gaseosa Coca-Cola Sabor Original ? Menos Azúcares 2.25 Lt</h3> <p> Nada supera el sabor de una Coca-Cola. Diseñado para acompañar cada momento, el sabor de la Coca-Cola es un clásico que perdura desde hace más de 130 años. Deliciosa y refrescante. </p> </article>",
+        "nombre": "Gaseosa Coca-cola Sabor Original 2.25 L",
+        "marca": "COCA COLA",
+        "precioDeVenta": 2900,
+        "precioDeList": 2900,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/783070/Gaseosa-Coca-cola-Sabor-Original-2-25-L-1-247191.jpg?v=638206690815300000"
+    },
+    "7282": {
+        "id": "7282",
+        "descripcion": "",
+        "nombre": "Queso Barra Jumbo Tripack",
+        "marca": "JUMBO MP",
+        "precioDeVenta": 8499,
+        "precioDeList": 8499,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/464961/Queso-Jumbo-Barra--Tybo--Pampa-1-Kg-1-5262.jpg?v=636659280124300000"
+    },
+    "7613": {
+        "id": "7613",
+        "descripcion": "",
+        "nombre": "Cerveza Heineken Retornable 1 L",
+        "marca": "HEINEKEN",
+        "precioDeVenta": 3325,
+        "precioDeList": 3325,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/579428/Cerveza-Retornable-Heineken-1-L-1-236821.jpg?v=637215672574430000"
+    },
+    "8249": {
+        "id": "8249",
+        "descripcion": "<article><b>Manteca calidad extra. Libre de gluten. </b></article>",
+        "nombre": "Manteca Ls Bienestar Animal 200 G",
+        "marca": "LA SERENISIMA",
+        "precioDeVenta": 2680.89,
+        "precioDeList": 2680.89,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/793456/Manteca-Ls-B-animal-200g-Manteca-La-Serenisima-200-Gr-1-6236.jpg?v=638303241666030000"
+    },
+    "12518": {
+        "id": "12518",
+        "descripcion": "",
+        "nombre": "Jamon Cocido Tripack Kg 1 Sob Minimo 800 Gr Mayorista",
+        "marca": "JUMBO MP",
+        "precioDeVenta": 7999,
+        "precioDeList": 7999,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/516235/Jamon-Cocido-Tripack-Kg-1-Sob-Minimo-800-Gr-Mayorista-1-10459.jpg?v=636840692090400000"
+    },
+    "12943": {
+        "id": "12943",
+        "descripcion": "",
+        "nombre": "Queso Cremoso La Paulina 1/4 Hma - Mínimo 1 Kg Mayorista.",
+        "marca": "LA PAULINA",
+        "precioDeVenta": 5999,
+        "precioDeList": 5999,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/594326/Queso-Cremoso-La-Paulina-1-4-Hma-M-nimo-1-Kg-Mayorista-1-10850.jpg?v=637305532902770000"
+    },
+    "12978": {
+        "id": "12978",
+        "descripcion": "",
+        "nombre": "Banana Ecuador Por Kg",
+        "marca": "SIN MARCA",
+        "precioDeVenta": 1899,
+        "precioDeList": 1899,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/790316/Banana-Ecuador-Por-Kg-1-10885.jpg?v=638272137671900000"
+    },
+    "19412": {
+        "id": "19412",
+        "descripcion": "",
+        "nombre": "Carre De Cerdo Con Hueso Fresco",
+        "marca": "SIN MARCA",
+        "precioDeVenta": 3599,
+        "precioDeList": 3599,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/720670/Carre-De-Cerdo-Con-Hueso-X-Kg-1-17210.jpg?v=637992957932800000"
+    },
+    "19417": {
+        "id": "19417",
+        "descripcion": "<article> <h3>Palta Hass Und</h3> Palta Hass elegida por unidad : Tope máximo por compra hasta 6 unidades.</article>",
+        "nombre": "Palta Hass Elegida Unidad",
+        "marca": "SIN MARCA",
+        "precioDeVenta": 999,
+        "precioDeList": 999,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/763476/Palta-Hass-Elegida-Unidad-1-17215.jpg?v=638080005645570000"
+    },
+    "21814": {
+        "id": "21814",
+        "descripcion": "<article> <h3>Gaseosa Coca-Cola Sin Azúcares 2.25 L</h3> <p> Nada supera el sabor de una Coca-Cola. Diseñado para acompañar cada momento, el sabor de la Coca-Cola es unclásico que perdura desde hace más de 130 años. Deliciosa y refrescante. </p> </article>",
+        "nombre": "Coca-cola Zero 2,25 Lt",
+        "marca": "COCA COLA",
+        "precioDeVenta": 2900,
+        "precioDeList": 2900,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/799920/Gaseosa-Coca-Cola-Sin-Azucar-2-25lt-1-19721.jpg?v=638349573899270000"
+    },
+    "21853": {
+        "id": "21853",
+        "descripcion": "<article> <h3>Gaseosa Coca-Cola Sin Azúcares 500 Ml</h3> <p> Nada supera el sabor de una Coca-Cola. Diseñado para acompañar cada momento, el sabor de la Coca-Cola es unclásico que perdura desde hace más de 130 años. Deliciosa y refrescante. </p> </article>",
+        "nombre": "Coca-cola Zero 500 Ml",
+        "marca": "COCA COLA",
+        "precioDeVenta": 1150,
+        "precioDeList": 1150,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/799922/Gaseosa-Coca-Cola-Zero-X-500-Cc-1-19760.jpg?v=638349573908170000"
+    },
+    "171369": {
+        "id": "171369",
+        "descripcion": "",
+        "nombre": "Queso Cremón Cremoso",
+        "marca": "LS CREMON",
+        "precioDeVenta": 10203,
+        "precioDeList": 10203,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/782005/Queso-Crem-n-Cremoso-1-49522.jpg?v=638201073860900000"
+    },
+    "184423": {
+        "id": "184423",
+        "descripcion": "",
+        "nombre": "Suprema De Pollo Granel Congelada.",
+        "marca": "SIN MARCA",
+        "precioDeVenta": 4599,
+        "precioDeList": 4599,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/672121/Suprema-De-Pollo-Congelada-1-84342.jpg?v=637703409880230000"
+    },
+    "200425": {
+        "id": "200425",
+        "descripcion": "<article> <h3>Gaseosa Pepsi Black Botella 1,5ltx1 </h3> <b> CATEGORÍA: </b>Gaseosa<br> </br><b>FABRICANTE: </b>Cervecería y Maltería Quilmes<br> </br><b>MARCA: </b>Pepsi<br> </br><b>VARIEDAD: </b> Black<br> </br><b>ENVASE: </b> Botella<br> </br><b>GRAMAJE: </b> 1.5lt<br> </br><b>CANTIDAD: </b>1</article>",
+        "nombre": "Gaseosa Pepsi Black Botella 1,5ltx1",
+        "marca": "PEPSI",
+        "precioDeVenta": 1657,
+        "precioDeList": 1657,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/769354/Gaseosa-Pepsi-Black-1-5lts-1-237512.jpg?v=638120073786470000"
+    },
+    "240763": {
+        "id": "240763",
+        "descripcion": "<article> <h3>Agua Glaciar sin gas Botella 2ltx1 </h3> <b> CATEGORÍA: </b>Agua<br> </br><b>FABRICANTE: </b>Cervecería y Maltería Quilmes<br> </br><b>MARCA: </b>Glaciar<br> </br><b>VARIEDAD: </b> sin gas<br> </br><b>ENVASE: </b> Botella<br> </br><b>GRAMAJE: </b> 2lt<br> </br><b>CANTIDAD: </b>1</article>",
+        "nombre": "Agua Glaciar Sin Gas Botella 2ltx1",
+        "marca": "GLACIAR",
+        "precioDeVenta": 990,
+        "precioDeList": 990,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/544753/Agua-Baja-En-Sodio-Glaciar-2-L-1-237513.jpg?v=637014360454900000"
+    },
+    "242484": {
+        "id": "242484",
+        "descripcion": "<article> <h3>Agua Nestlé Pureza Vital sin gas Bidón 6,3lt x1 </h3> <b> CATEGORÍA: </b>Agua<br> </br><b>FABRICANTE: </b>Cervecería y Maltería Quilmes<br> </br><b>MARCA: </b>Nestlé Pureza Vital<br> </br><b>VARIEDAD: </b> sin gas<br> </br><b>ENVASE: </b> Bidón<br> </br><b>GRAMAJE: </b> 6.3lt<br> </br><b>CANTIDAD: </b>1</article>",
+        "nombre": "Agua Sin Gas Nestlé Pureza Vital Bidón 6,3 L",
+        "marca": "NESTLE",
+        "precioDeVenta": 3321,
+        "precioDeList": 3321,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/544764/Agua-Nestle-Pureza-Vital-Bidon-63-L-1-241133.jpg?v=637014360505100000"
+    },
+    "242534": {
+        "id": "242534",
+        "descripcion": "",
+        "nombre": "Agua Villa Del Sur Pet Sin Gas 2250 Ml",
+        "marca": "VILLA DEL SUR",
+        "precioDeVenta": 690,
+        "precioDeList": 690,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/620318/Agua-Villa-Del-Sur-Pet-Sin-Gas-2250-Ml-1-241235.jpg?v=637466226602700000"
+    },
+    "270147": {
+        "id": "270147",
+        "descripcion": "<article> <h3>Gaseosa Coca-Cola Sin Azúcares 1,75 Ml</h3> <p> Nada supera el sabor de una Coca-Cola. Diseñado para acompañar cada momento, el sabor de la Coca-Cola es unclásico que perdura desde hace más de 130 años. Deliciosa y refrescante. </p> </article>",
+        "nombre": "Coca-cola Zero 1,75 Lt",
+        "marca": "COCA COLA",
+        "precioDeVenta": 2300,
+        "precioDeList": 2300,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/799927/Gaseosa-Coca-Cola-Zero-1-75lt-1-367450.jpg?v=638349573931070000"
+    },
+    "270152": {
+        "id": "270152",
+        "descripcion": "<article> <h3>Gaseosa Coca-Cola Light 1.75 L</h3> <p>Nada supera el sabor de una Coca-Cola. Diseñado para acompañar cada momento, el sabor de la Coca-Cola es un clásico que perdura desde hace más de 130 años. Sabor liviano, 100% reducida en azúcares. </p> </article>",
+        "nombre": "Coca-cola Sabor Liviano 1,75 Lt",
+        "marca": "COCA COLA",
+        "precioDeVenta": 2300,
+        "precioDeList": 2300,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/799928/Gaseosa-Coca-Cola-Light-1-75lt-Gaseosa-Coca-cola-Light-1-75-Lt-1-367456.jpg?v=638349573934800000"
+    },
+    "272955": {
+        "id": "272955",
+        "descripcion": "",
+        "nombre": "Cerveza Schneider Rubia 710 Ml",
+        "marca": "SCHNEIDER",
+        "precioDeVenta": 2040,
+        "precioDeList": 2040,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/579451/Cerveza-Schneider-Lata-710-Cc-1-417654.jpg?v=637215672686300000"
+    },
+    "300227": {
+        "id": "300227",
+        "descripcion": "<article><b>Leche Entera UAT, homogeneizada, fortificada con vitaminas A y D. Libre de gluten. Con 3% tenor graso.</b></article>",
+        "nombre": "Leche La Serenisima Entera Bot 1l",
+        "marca": "LA SERENISIMA",
+        "precioDeVenta": 1801.88,
+        "precioDeList": 1801.88,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/797314/Leche-Uat-Entera-La-Serenisima-3-Bot-1l-1-807013.jpg?v=638332509815370000"
+    },
+    "300228": {
+        "id": "300228",
+        "descripcion": "<article><b>Leche parcialmente descremada UAT, homogeneizada, fortificada con vitaminas A y D. Libre de gluten. Con 1% tenor graso</b></article>",
+        "nombre": "Leche La Serenisima Liviana Bot 1l",
+        "marca": "LA SERENISIMA",
+        "precioDeVenta": 1801.88,
+        "precioDeList": 1801.88,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/797315/Leche-Uat-Desc-La-Serenisima-1-Bot-1l-1-807015.jpg?v=638332509819430000"
+    },
+    "301429": {
+        "id": "301429",
+        "descripcion": "<article><b>Leche parcialmente descremada UAT, homogeneizada, fortificada con vitaminas A y D. Sin lactosa. Libre de gluten.</b></article>",
+        "nombre": "Leche La Serenisima Zerolact Bot 1l",
+        "marca": "LA SERENISIMA",
+        "precioDeVenta": 1841.74,
+        "precioDeList": 1841.74,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/797316/Leche-Uat-La-Serenisima-Zerolact-Bot1l-Leche-Zero-Lactosa-La-Serenisima-Botella-Larga-Vida-1l-1-833488.jpg?v=638332509824430000"
+    },
+    "311936": {
+        "id": "311936",
+        "descripcion": "",
+        "nombre": "Lomo De Atun Al Natural Cuisine & Co 120gr Escurrido 170 Gr Neto",
+        "marca": "CUISINE & CO NBE MP",
+        "precioDeVenta": 2100,
+        "precioDeList": 2100,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/589055/Atun-Lomo-Al-Natural-Cuisine-co-1-849806.jpg?v=637280470874970000"
+    },
+    "316566": {
+        "id": "316566",
+        "descripcion": "",
+        "nombre": "Yerba Mate Playadito Suave 1 Kg",
+        "marca": "PLAYADITO",
+        "precioDeVenta": 4257,
+        "precioDeList": 4257,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/711224/Yerba-Mate-Playadito-Suave-X1kg-1-854539.jpg?v=637938633804770000"
+    },
+    "318882": {
+        "id": "318882",
+        "descripcion": "Fernet Branca 750cc",
+        "nombre": "Fernet Branca 750 Ml",
+        "marca": "BRANCA",
+        "precioDeVenta": 9200,
+        "precioDeList": 9200,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/617349/Fernet-Branca-Bot-750-Cc-1-856717.jpg?v=637437282860830000"
+    },
+    "319492": {
+        "id": "319492",
+        "descripcion": "",
+        "nombre": "Yerba Mate De Campo La Merced 500 Gr",
+        "marca": "LA MERCED",
+        "precioDeVenta": 3425,
+        "precioDeList": 3425,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/621304/Yerba-Mate-La-Merced-Campo-O-c-500g-1-857353.jpg?v=637473138269830000"
+    },
+    "321135": {
+        "id": "321135",
+        "descripcion": "<article><b>Leche LS UAT Desc. Protein 0% Pet 1L</b></article>",
+        "nombre": "Leche Uat La Serenísima Proteina 1lt",
+        "marca": "LA SERENISIMA",
+        "precioDeVenta": 1841.74,
+        "precioDeList": 1841.74,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/637500/Leche-Protein-La-Serenisina-Botella-Larga-Vida-1l-1-859060.jpg?v=637540537556030000"
+    },
+    "323276": {
+        "id": "323276",
+        "descripcion": "",
+        "nombre": "Carne Vacuna Picada Enfriada E",
+        "marca": "LA HACIENDA MP",
+        "precioDeVenta": 5655,
+        "precioDeList": 5655,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/672125/Picada-Especial-1-861724.jpg?v=637703409949200000"
+    },
+    "332519": {
+        "id": "332519",
+        "descripcion": "",
+        "nombre": "Leche Cuisine Y Co Semi Descremada 1l",
+        "marca": "CUISINE & CO NBE MP",
+        "precioDeVenta": 1000,
+        "precioDeList": 1000,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/646096/Leche-Uat-Semi-Descremada-1cuisine-Co-1l-1-871267.jpg?v=637582879871700000"
+    },
+    "341500": {
+        "id": "341500",
+        "descripcion": "",
+        "nombre": "Jamon Cocido Cuisine & Co Venta Al Peso",
+        "marca": "CUISINE & CO NBE MP",
+        "precioDeVenta": 8999,
+        "precioDeList": 8999,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/807030/Jamon-Cocido-Cuisine-Co-Venta-Al-Peso-1-879827.jpg?v=638406058229170000"
+    },
+    "341554": {
+        "id": "341554",
+        "descripcion": "",
+        "nombre": "Soda Cuisine-co Sifon 1,75 Ml",
+        "marca": "CUISINE & CO NBE MP",
+        "precioDeVenta": 1100,
+        "precioDeList": 1100,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/672690/Soda-Sifon-1-75cc-Cuisine-Co-1-879885.jpg?v=637707945887770000"
+    },
+    "347609": {
+        "id": "347609",
+        "descripcion": "",
+        "nombre": "Jabon Ropa Skip Bioactive Enzimas Diluible 500ml",
+        "marca": "SKIP",
+        "precioDeVenta": 7224,
+        "precioDeList": 7224,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/792994/Jabon-Ropa-Skip-Bio-Enzimas-Diluible-500-Jabon-Ropa-Skip-Bioactive-Enzimas-Diluible-500ml-1-886091.jpg?v=638300434739070000"
+    },
+    "349411": {
+        "id": "349411",
+        "descripcion": "",
+        "nombre": "Atun Al Natural La Campagnola 170 Gr",
+        "marca": "LA CAMPAGNOLA",
+        "precioDeVenta": 3699,
+        "precioDeList": 3699,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/703709/Atun-La-Campagnola-Al-Natural-X170g-1-887998.jpg?v=637895325885100000"
+    },
+    "388000": {
+        "id": "388000",
+        "descripcion": "",
+        "nombre": "Pan Blanco Artesano Bimbo 500 Gr",
+        "marca": "ARTESANO",
+        "precioDeVenta": 4900,
+        "precioDeList": 4900,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/799937/Pan-Blanco-Artesano-Bimbo-X-500g-Pan-Blanco-Bimbo-Artesano-500g-1-942988.jpg?v=638349573976600000"
+    },
+    "389654": {
+        "id": "389654",
+        "descripcion": "<h2>Galletitas Oreo Rellenas con Crema Sabor Original 118g. Menos sodio.</h2><h4>Descripci&oacute;n:</h4><p>Esta es una se&ntilde;al para frenar y agregar tus Oreo al carrito.</p><p>Para el desayuno, para merendar en familia, para snackear en el recreo del colegio o en la facultadd o para compartir con amigos.</p><p>Compr&aacute; online y recibilo en casa.</p><p>Para mayor informaci&oacute;n, consult&aacute; las calor&iacute;as y Tabla Nutricional al dorso del empaque.</p>",
+        "nombre": "Galletitas Oreo Rellenas Con Crema Sabor Original 118g. Menos Sodio.",
+        "marca": "OREO",
+        "precioDeVenta": 1036,
+        "precioDeList": 1036,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/803301/Galletitas-Dulces-Rellenas-Con-Crema-Oreo-118g-1-945088.jpg?v=638379382759570000"
+    },
+    "389656": {
+        "id": "389656",
+        "descripcion": "<h2>Galletitas Pepitos con Chips de Chocolate 357g. Pack x 3 unidades de 119g.</h2><h4>Descripci&oacute;n:</h4><p>&iquest;Ya ten&eacute;s tus Galletitas Dulces Pepitos para hoy? Agreg&aacute; al carrito tus cookies favoritas, hechas con chispas del m&aacute;s rico chocolate Cadbury.</p><p>Aprovech&aacute; el tripack y llev&aacute; 3 paquetes de galletitas Pepitos al mejor precio.</p><p>Compr&aacute; online y recibilo en casa para disfrutar cuando vos quieras.</p><p>Consult&aacute; ingredientes y Tabla Nutricional al dorso del empaque.</p>",
+        "nombre": "Galletitas Pepitos Con Chips De Chocolate 357g. Pack X 3 Unidades De 119g.",
+        "marca": "PEPITOS",
+        "precioDeVenta": 2781,
+        "precioDeList": 2781,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/804479/Galletitas-Dulces-Con-Chips-De-Chocolate-Pepitos-357g-1-945090.jpg?v=638386293793430000"
+    },
+    "391695": {
+        "id": "391695",
+        "descripcion": "",
+        "nombre": "Leche Las Tres Niñas Clásica 3entera",
+        "marca": "LAS TRES NIÑAS",
+        "precioDeVenta": 1295,
+        "precioDeList": 1295,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/774950/Leche-Cl-sica-3entera-Las-Tres-Ni-as-Uht-1-948677.jpg?v=638157905809070000"
+    },
+    "392100": {
+        "id": "392100",
+        "descripcion": "",
+        "nombre": "Leche Las Tres Niñas Liviana X 1lt",
+        "marca": "LAS TRES NIÑAS",
+        "precioDeVenta": 1295,
+        "precioDeList": 1295,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/780756/Leche-Liviana-1pd-Las-Tres-Ni-as-Uht-1-950301.jpg?v=638192541769570000"
+    },
+    "393461": {
+        "id": "393461",
+        "descripcion": "",
+        "nombre": "Rollo De Cocina Sussex Clásico Más Blanco 50 Paños  X3",
+        "marca": "SUSSEX",
+        "precioDeVenta": 2500,
+        "precioDeList": 2500,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/784233/Rollo-De-Cocina-Sussex-Cl-sico-M-s-Blanco-50-Pa-os-X3-1-957263.jpg?v=638218353841100000"
+    },
+    "394453": {
+        "id": "394453",
+        "descripcion": "",
+        "nombre": "Leche Uat La Serenisima 1 - 1 Lt",
+        "marca": "LA SERENISIMA",
+        "precioDeVenta": 1717.85,
+        "precioDeList": 1717.85,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/785290/Leche-Uat-1la-Serenisima-1-L-1-958306.jpg?v=638223762282570000"
+    },
+    "394454": {
+        "id": "394454",
+        "descripcion": "",
+        "nombre": "Leche Uat Serenisima 3 - 1 Lt",
+        "marca": "LA SERENISIMA",
+        "precioDeVenta": 1717.85,
+        "precioDeList": 1717.85,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/785291/Leche-Uat-3la-Serenisima-1l-1-958307.jpg?v=638223762290430000"
+    },
+    "397386": {
+        "id": "397386",
+        "descripcion": "<article> <h3>Cerveza Quilmes Hinchada Lata 473mlx6 </h3> <b> DESCRIPCIÓN: </b> <br> </br>Cerveza dorada y equlibrada. La cerveza de los argentinos por excelencia. Es una típica cerveza lager perfectamente equilibrada, transparente dorada, buen nivel de espuma y sabor. Para hacerla utilizamos sólo ingredientes naturales que crecen en los campos de Argentina.<br> </br><b> CATEGORÍA: </b>Cerveza<br> </br><b>FABRICANTE: </b>Cervecería y Maltería Quilmes<br> </br><b>MARCA: </b>Quilmes<br> </br><b>VARIEDAD: </b> Hinchada<br> </br><b>ENVASE: </b> Lata<br> </br><b>GRAMAJE: </b> 473ml<br> </br><b>CANTIDAD: </b> 6</article>",
+        "nombre": "Cerveza Quilmes Hinchada 473 Ml X 6 Un",
+        "marca": "QUILMES",
+        "precioDeVenta": 8281,
+        "precioDeList": 8281,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/786358/Cerveza-Quilmes-Hinchada-Sixpack-473cc-1-971977.jpg?v=638234014256870000"
+    },
+    "397449": {
+        "id": "397449",
+        "descripcion": "",
+        "nombre": "Agua Sin Gas Villa Del Sur Bidón 6,2 L",
+        "marca": "Levite",
+        "precioDeVenta": 3350,
+        "precioDeList": 3350,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/786406/Agua-Villa-Del-Sur-Sin-Gas-Bid-n-6-2lt-1-972179.jpg?v=638234014445730000"
+    },
+    "397600": {
+        "id": "397600",
+        "descripcion": "",
+        "nombre": "Rollo De Cocina Sussex Mega Rollo 1u 200 Paños",
+        "marca": "SUSSEX",
+        "precioDeVenta": 2450,
+        "precioDeList": 2450,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/792038/Rollo-De-Cocina-Sussex-Mega-Rollo-1u-200-Pa-os-1-972320.jpg?v=638294385794000000"
+    },
+    "397953": {
+        "id": "397953",
+        "descripcion": "",
+        "nombre": "Papel Higienico Elite Ultra Suave Doble Hoja 4",
+        "marca": "ELITE",
+        "precioDeVenta": 2900,
+        "precioDeList": 2900,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/787038/Papel-Higienico-Elite-Ultra-Suave-Doble-Hoja-4-1-972774.jpg?v=638240818078470000"
+    },
+    "402288": {
+        "id": "402288",
+        "descripcion": "",
+        "nombre": "Papel Higienico Higienol Max Aloe Panal Hs 100",
+        "marca": "HIGIENOL",
+        "precioDeVenta": 5672,
+        "precioDeList": 5672,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/789213/Papel-Higienico-Higienol-Max-Aloe-Panal-Hs-100-1-985603.jpg?v=638261246600430000"
+    },
+    "402296": {
+        "id": "402296",
+        "descripcion": "",
+        "nombre": "Papel Higienico Higienol Max Aloe Panal Hs 80m",
+        "marca": "HIGIENOL",
+        "precioDeVenta": 5244,
+        "precioDeList": 5244,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/792042/Papel-Higienico-Higienol-Max-Aloe-Panal-Hs-80mx4u-Papel-Higienico-Higienol-Max-Aloe-Panal-Hs-80m-1-985611.jpg?v=638294385814570000"
+    },
+    "407398": {
+        "id": "407398",
+        "descripcion": "",
+        "nombre": "Queso Clasico Casancrem 480g",
+        "marca": "CASANCREM",
+        "precioDeVenta": 4661.8,
+        "precioDeList": 4661.8,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/792158/Queso-Clasico-Casancrem-480g-1-994802.jpg?v=638294386229570000"
+    },
+    "410002": {
+        "id": "410002",
+        "descripcion": "",
+        "nombre": "Agua Sin Gas Villavicencio 1,5 L",
+        "marca": "VILLAVICENCIO",
+        "precioDeVenta": 1391,
+        "precioDeList": 1391,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/795825/Agua-Villavicencio-Sin-Gas-1-5lt-1-997457.jpg?v=638313501958270000"
+    },
+    "410005": {
+        "id": "410005",
+        "descripcion": "",
+        "nombre": "Agua Sin Gas Villavicencio 2 L",
+        "marca": "VILLAVICENCIO",
+        "precioDeVenta": 1550,
+        "precioDeList": 1550,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/798470/Agua-Villavicencio-Sin-Gas-2lt-1-997460.jpg?v=638340185331300000"
+    },
+    "410011": {
+        "id": "410011",
+        "descripcion": "",
+        "nombre": "Agua Villavicencio Con Gas 1,5lt",
+        "marca": "VILLAVICENCIO",
+        "precioDeVenta": 1391,
+        "precioDeList": 1391,
+        "imagen": "https://jumboargentinaio.vtexassets.com/arquivos/ids/795829/Agua-Villavicencio-Con-Gas-1-5lt-1-997466.jpg?v=638313501977570000"
+    },
+    "iniciado": true
+}
